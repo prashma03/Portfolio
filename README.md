@@ -1,2 +1,2 @@
 # Portfolio
-A dreamy, interactive portfolio website built with HTML, CSS, and JavaScript. Instead of a traditional portfolio layout, it uses a scrapbook-style storytelling experience with an intro screen, swipe-based chapters, a constellation achievements page, draggable project windows, an interactive goals room, hobbies, and diary-style contact page. 
+A dreamy, interactive portfolio website built with HTML, CSS, and JavaScript. Instead of a traditional portfolio layout, it uses a scrapbook-style storytelling experience with an intro screen, swipe-based chapters, a constellation achievements page, draggable project windows, an interactive goals room, hobbies, and diary-style contact page. You can also send me a cute letter which is received by my email.
